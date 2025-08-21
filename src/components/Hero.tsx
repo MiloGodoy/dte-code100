@@ -61,7 +61,7 @@ export default function HeroSection() {
             Transformamos la gestión documental de tu empresa con tecnología de vanguardia
           </p>
 
-          <div className="flex items-center justify-center space-x-3 text-sm text-gray-400">
+          {/* <div className="flex items-center justify-center space-x-3 text-sm text-gray-400">
             <span className="bg-gray-700 text-gray-300 px-4 py-2 rounded-full font-medium">Home</span>
             <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -73,7 +73,7 @@ export default function HeroSection() {
             <span className="bg-teal-600/20 text-teal-300 px-4 py-2 rounded-full border border-teal-500/30 font-medium">
               Repositorio Público
             </span>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
