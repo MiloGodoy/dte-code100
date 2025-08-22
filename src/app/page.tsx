@@ -1,3 +1,5 @@
+
+import AdvantagesSection from "@/components/AdventagesSection";
 import Header from "@/components/Header";
 import HeroSection from "@/components/Hero";
 import RepositorySection from "@/components/RepositorySection";
@@ -9,6 +11,7 @@ export default function Home() {
       <Header />
       <HeroSection />
       <RepositorySection />
+      <AdvantagesSection />
     </>
   );
 }
